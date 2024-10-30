@@ -25,7 +25,7 @@ Load the data in Power BI
 Explore the data in Power BI and perform any necessary data cleaning and transformations
 Create interactive figures to visually explore the dataset
 
-## Sources
+**Sources**
 The Developer: https://www.youtube.com/watch?v=rMYacj8PreA&t=6207s
 Kaggle: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data
 
