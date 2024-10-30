@@ -17,7 +17,7 @@ Welcome to the Paris 2024 Olympic games Power BI Dashboard! This dashboard provi
 
 **Steps**
 - Clone the repository
-- Install python dependencies: bash Copy code pip install pandas numpy matplotlib seaborn
+- Install python dependencies: copy code to bash 'pip install pandas numpy matplotlib seaborn'
 - Download dataset: a) using the Kaggle API in python, or b) manually from Kaggle's website
 - Load the data in Power BI
 - Explore the data in Power BI and perform any necessary data cleaning and transformations
