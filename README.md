@@ -12,7 +12,7 @@ Welcome to the Paris 2024 Olympic games Power BI Dashboard! This dashboard provi
 **Prerequisites**
 - Python (3.7+)
 - Power BI Desktop
-- Canva (optional, for design modifications)
+- Canva (optional, to design the background user interface)
 - Kaggle API (to download datasets) 
 
 **Steps**
