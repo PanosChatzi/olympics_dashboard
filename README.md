@@ -23,9 +23,6 @@ Welcome to the Paris 2024 Olympic games Power BI Dashboard! This dashboard provi
 - Explore the data in Power BI and perform any necessary data cleaning and transformations
 - Create interactive figures to visually explore the dataset
 
-**View dashboard**
-- https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!iOMr6TP2GkGz5gVJQBBpdO_izxHRhuBCt2EyYKqftNiu9u_MVx2nTZ057u56BJWE&itemId=017WO57RRORNYI5W3QA5EYB73N2HEVNTW5
-
 **Sources**
 - The Developer: https://www.youtube.com/watch?v=rMYacj8PreA&t=6207s
 - Kaggle: https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data
