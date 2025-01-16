@@ -1,6 +1,6 @@
 # Paris 2024 Olympics
 
-Welcome to the Paris 2024 Olympic games dashboard (see ![here](dashboard.md))! This Power BI provides interactive visualizations and insights into the 2024 Olympic games data. A python script was used to download the Olympic dataset from Kaggle. Power BI desktop was then connected to python to load the dataset using custom scripts. The data were cleaned and transformed inside Power BI using Power Query and DAX. Interactive figures were made to display the highlights of 2024 Paris Olympic Games, such as total medals by country.
+Welcome to the Paris 2024 Olympic games dashboard (see file ![dashboard.md](dashboard.md))! This Power BI provides interactive visualizations and insights into the 2024 Olympic games data. A python script was used to download the Olympic dataset from Kaggle. Power BI desktop was then connected to python to load the dataset using custom scripts. The data were cleaned and transformed inside Power BI using Power Query and DAX. Interactive figures were made to display the highlights of 2024 Paris Olympic Games, such as total medals by country.
 
 **Technologies**
 - Python: For data extraction and preprocessing
